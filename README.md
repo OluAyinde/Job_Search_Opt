@@ -13,3 +13,7 @@ The following lines should be modified and saved based on preference before runn
 
 `Run Script:`
 - To run the `job_search.py` file, copy and paste this into your terminal or bash `python3 job_search.py` and run. Depending on the `Python` version you have installed, you may use `python job_search.py`.
+
+-----------------
+
+A brief background can be found [here](https://medium.com/@aoluf/improve-optimise-your-job-search-f33a543bb54e)
