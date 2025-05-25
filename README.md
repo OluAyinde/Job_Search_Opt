@@ -1,5 +1,8 @@
 This repository was created to help augment and optimise the job searching process, resulting in more leads. The script searches `Google jobs` via [SerpApi](https://medium.com/r/?url=http%3A%2F%2Fserpapi.com), for which you'll require an `API Key`.
 
+`Dependencies/Requirements:`
+- `requests` and `pandas` need to be installed.
+
 `Script Modifications:`
 
 The following lines should be modified and saved based on preference before running the script:
